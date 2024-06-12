@@ -89,7 +89,7 @@ def calc_co_in(data):
   tmp = []
   for i in range(HEAD_INDEX, TAIL_INDEX, 24):
     open_price = data[i][3]
-    close_price = data[i+23][3]
+    close_price = data[i+23][6]
     tmp.append(close_price - open_price)
 
   return tmp
