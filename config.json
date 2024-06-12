@@ -1,0 +1,11 @@
+{
+  "aggregate": "1",
+  "e": "CCCAGG",
+  "extraParams": "https:%2F%2Fwww.cryptocompare.com",
+  "fsym": "BTC",
+  "limit": "24",
+  "tryConversion": "false",
+  "tsym": "USDT",
+  "toTs": "1491750000"
+}
+
